@@ -36,6 +36,6 @@
 
 ------
 
-[chinmaypant21](https://github.com/chinmaypant21)
+[Chinmay Pant](https://github.com/chinmaypant21)
 
 Last Edited on: 28/03/2023
