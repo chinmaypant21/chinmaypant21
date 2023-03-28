@@ -4,7 +4,7 @@
 
 
 # Hey! 👋 This is Chinz. #
-Checkout my portfolio at [chinz.me](https://chinz.me)
+# [**chinz.me 🌐**](https://chinz.me) #
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaypant21&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaypant21" /> </p>
 
