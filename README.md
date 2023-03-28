@@ -4,6 +4,7 @@
 
 
 # Hey! 👋 This is Chinz. #
+Checkout my portfolio at [chinz.me](https://chinz.me)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaypant21&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaypant21" /> </p>
 
@@ -45,7 +46,9 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/not__cicada">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+			<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="">
+			<img src="https://img.icons8.com/clouds/1x/web.png" width='50'></a>
       </div>
 
 </p>
