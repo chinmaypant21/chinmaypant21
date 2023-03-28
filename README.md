@@ -47,7 +47,7 @@ Checkout my portfolio at [chinz.me](https://chinz.me)
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="">
 			<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
+		<a style="margin-left: 5px;" target="_blank" href="https://chinz.me">
 			<img src="https://img.icons8.com/clouds/1x/web.png" width='50'></a>
       </div>
 
