@@ -3,17 +3,18 @@
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
 
-
 # Hey! 👋 Nice to see you. #
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaypant21&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaypant21" /> </p>
 
 [<img src="https://cdn.iconscout.com/icon/free/png-512/react-3-1175109.png" alt="react" width="50">](https://react.dev/learn)
-[<img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="js" width="50">]()
 [<img src="https://cdn.iconscout.com/icon/free/png-512/html-2752158-2284975.png" alt="html" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/css-131-722685.png" alt="css" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png" alt="js" width="50">]()
+[<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1-1175078.png" alt="ts" width="50">]()
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="50">]()
+[<img src="https://cdn.iconscout.com/icon/free/png-512/c-58-1175247.png" alt="c++" width="50">]()
+[<img src="https://cdn.iconscout.com/icon/free/png-512/docker-3628734-3029959.png" alt="docker" width="50">]()
 
 
 
