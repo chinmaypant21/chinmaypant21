@@ -3,7 +3,7 @@
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
 
-# Hey! 👋 Nice to see you. #
+# Hey! 👋 This is Chinz. #
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaypant21&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaypant21" /> </p>
 
