@@ -31,7 +31,7 @@
 <div align='center'>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=chinmaypant21&theme=onestar&no-frame=true&column=3&row=2)
-[<img align='left' src="https://github.com/chinmaypant21/chinmaypant21/assets/64401853/d5009acb-1ffc-4d65-96fc-4b79c6ffb40a" width="300" alt="pic">](https://chinz.me)
+<img align='left' src="https://github.com/chinmaypant21/chinmaypant21/assets/64401853/d5009acb-1ffc-4d65-96fc-4b79c6ffb40a" width="250" alt="pic">
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chinmaypant21&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
@@ -42,7 +42,10 @@
 
 ------
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Find me 🦖 </h3>
+<h3 align="center">
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" />
+	<span>Find me 🦖</span>
+</h3>
 
 <div align="center">
 	
