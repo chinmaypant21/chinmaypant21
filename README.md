@@ -51,8 +51,5 @@
 	
 [![Stackoverflow](https://img.shields.io/badge/-chinz-%23F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15276488/chinz)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaypant)
-[![Discord](https://img.shields.io/badge/-notchinz-%235865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/notchinz/)
-[![Duolingo](https://img.shields.io/badge/-duolingo-%2358CC02?style=flat&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/notcica)
-[![Spotify](https://img.shields.io/badge/-Spotify-%231DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/o22xcwtpsiaiuiu6j2g3uc4qs)
 
 </div>
