@@ -1,6 +1,7 @@
 ## Hey! 👋 I'm Chinz
 
-<img align='right' style='border-radius:10px' src="https://github.com/user-attachments/assets/cc4d1062-b4f6-43ea-bb5b-161b51eec31a" width="280" alt="pic">
+<img align='right' style='border-radius:10px' src="https://github.com/user-attachments/assets/601704d8-fa75-4b86-890f-b1ca4682fc05" width="280" alt="pic">
+
 
 
 🔐 Software Engineer at the intersection of **security & engineering**
